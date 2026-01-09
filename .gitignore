@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model weights (large files)
+*.pt
+*.pth
+*.weights
+
+# Results and outputs
+Results/*.mp4
+Results/*.avi
+
+# Dataset
+aircraft2/*.jpg
+aircraft2/*.png
+aircraft2/train/
+aircraft2/val/
+aircraft2/test/
+
+# Backup files
+*_backup.py
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
