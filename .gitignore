@@ -24,10 +24,6 @@ ENV/
 *.pth
 *.weights
 
-# Results and outputs
-Results/*.mp4
-Results/*.avi
-
 # Dataset
 aircraft2/*.jpg
 aircraft2/*.png
