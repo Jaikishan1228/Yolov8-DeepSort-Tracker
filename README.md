@@ -4,9 +4,7 @@ Real-time aircraft detection and tracking using YOLOv8 for detection and DeepSOR
 
 ## Demo
 
-![Tracking Demo](Results/1_tracked_20260109_153132.mp4)
-
-[▶️ View Full Demo Video](Results/1_tracked_20260109_153132.mp4)
+[▶️ View Demo Video](Results/1_tracked_20260109_153132.mp4)
 
 ## Quick Start
 
